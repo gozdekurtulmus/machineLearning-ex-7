@@ -26,6 +26,7 @@ clear ; close all; clc
 %  into two functions -- findClosestCentroids and computeCentroids. In this
 %  part, you should complete the code in the findClosestCentroids function. 
 %
+
 fprintf('Finding closest centroids.\n\n');
 
 % Load an example dataset that we will be using
